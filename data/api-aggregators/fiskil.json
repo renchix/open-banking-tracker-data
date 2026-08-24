@@ -5,16 +5,16 @@
   "iconUrl": "https://fiskil.com/favicon.ico",
   "developerPortalUrl": "https://docs.fiskil.com/",
   "institutionStatusUrl": "https://www.fiskil.com/institution-status",
-  "twitter": "fiskilhq",
+  "twitter": null,
   "countryHQ": "AU",
   "marketFocus": "Australia and New Zealand",
   "verified": false,
-  "description": "Open finance platform providing secure access to financial data across Australia and New Zealand",
+  "description": "Open data infrastructure platform providing open banking, open finance and energy-data connectivity across Australia and New Zealand. Provides API access to banks, non-bank lenders and energy providers, plus a managed Data Provider platform for institutions sharing data out.",
   "marketCoverage": {
     "live": ["AU", "NZ"]
   },
   "bankCount": 121,
-  "lastUpdated": "2026-06-27T04:56:50Z",
+  "lastUpdated": "2026-08-20T00:00:00Z",
   "coverage": {
     "byCountry": {
       "AU": 116,
