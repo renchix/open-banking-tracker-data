@@ -42,6 +42,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developers.klarna.com/api/",
   "apiAggregators": [
+    "insurely",
     "klarna"
   ],
   "apiProducts": [
@@ -235,5 +236,6 @@
     }
   ],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "KLRNSESS"
 }

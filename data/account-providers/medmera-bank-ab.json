@@ -6,12 +6,12 @@
   "bankType": [
     "retail"
   ],
-  "name": "MEDMERA BANK AB",
-  "legalName": "MEDMERA BANK AB",
+  "name": "MedMera Bank AB",
+  "legalName": "MedMera Bank AB",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.medmerabankab.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/medmerabank.se.ico",
+  "websiteUrl": "https://medmerabank.se/",
   "countryHQ": "SE",
   "countries": [
     "SE"
@@ -22,7 +22,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "insurely"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,

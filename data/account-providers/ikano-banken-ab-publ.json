@@ -6,12 +6,12 @@
   "bankType": [
     "retail"
   ],
-  "name": "IKANO BANKEN AB (PUBL)",
-  "legalName": "IKANO BANKEN AB (PUBL)",
+  "name": "Ikano Banken AB (publ)",
+  "legalName": "Ikano Banken AB (publ)",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.ikanobankenabpubl.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.ikanobank.se.ico",
+  "websiteUrl": "https://www.ikanobank.se/",
   "countryHQ": "SE",
   "countries": [
     "SE"
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "insurely",
     "zenith"
   ],
   "ownership": [],

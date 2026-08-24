@@ -10,7 +10,7 @@
   "legalName": "Nordea (SE)",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.nordea-se.com.ico",
+  "icon": "https://icons.duckduckgo.com/ip3/www.nordea.se.ico",
   "websiteUrl": "https://www.nordea.com/en",
   "countryHQ": "SE",
   "countries": [
@@ -23,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "insurely",
     "plaid"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NDEASESS"
 }

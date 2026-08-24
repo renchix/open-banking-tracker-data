@@ -10,8 +10,8 @@
   "legalName": "Bank Norwegian Decoupled",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bank-norwegian-decoupled.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.banknorwegian.se.ico",
+  "websiteUrl": "https://www.banknorwegian.se/",
   "countryHQ": "SE",
   "countries": [
     "SE"
@@ -24,6 +24,7 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
+    "insurely",
     "lunchflow",
     "synci",
     "zenith"

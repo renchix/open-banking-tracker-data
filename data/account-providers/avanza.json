@@ -10,8 +10,8 @@
   "legalName": "Avanza",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.avanza.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.avanza.se.ico",
+  "websiteUrl": "https://www.avanza.se/",
   "countryHQ": "SE",
   "countries": [
     "SE"
@@ -23,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "insurely",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AVANSESX"
 }

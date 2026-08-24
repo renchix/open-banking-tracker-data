@@ -10,8 +10,8 @@
   "legalName": "DANSKE BANK",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.danskebankse.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.danskebank.se.ico",
+  "websiteUrl": "https://danskebank.se/",
   "countryHQ": "SE",
   "countries": [
     "SE"
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "insurely",
     "plaid",
     "zenith"
   ],

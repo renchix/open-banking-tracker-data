@@ -10,8 +10,8 @@
   "legalName": "Handelsbanken (SE)",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.handelsbanken-se.com.ico",
-  "websiteUrl": "https://www.handelsbanken.com/",
+  "icon": "https://icons.duckduckgo.com/ip3/www.handelsbanken.se.ico",
+  "websiteUrl": "https://www.handelsbanken.se/",
   "countryHQ": "SE",
   "countries": [
     "SE"
@@ -23,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "insurely",
     "plaid"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HANDSESS"
 }

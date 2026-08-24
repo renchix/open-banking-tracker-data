@@ -6,12 +6,12 @@
   "bankType": [
     "retail"
   ],
-  "name": "NORDAX FINANS AB (PUBL)",
-  "legalName": "NORDAX FINANS AB (PUBL)",
+  "name": "Nordax Finans AB (publ)",
+  "legalName": "Nordax Finans AB (publ)",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.nordaxfinansabpubl.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.nordax.se.ico",
+  "websiteUrl": "https://www.nordax.se/",
   "countryHQ": "SE",
   "countries": [
     "SE"
@@ -22,7 +22,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "insurely"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,

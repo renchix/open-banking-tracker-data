@@ -10,8 +10,8 @@
   "legalName": "re:member",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.remember.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.remember.se.ico",
+  "websiteUrl": "https://www.remember.se/",
   "countryHQ": "SE",
   "countries": [
     "SE"
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "insurely",
     "tink"
   ],
   "ownership": [],

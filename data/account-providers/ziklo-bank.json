@@ -1,17 +1,17 @@
 {
-  "id": "volvofinans-bank",
+  "id": "ziklo-bank",
   "type": [
     "account"
   ],
   "bankType": [
     "retail"
   ],
-  "name": "Volvofinans Bank",
-  "legalName": "Volvofinans Bank",
+  "name": "Ziklo Bank",
+  "legalName": "Ziklo Bank AB",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.volvofinans-bank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.ziklo.com.ico",
+  "websiteUrl": "https://www.ziklo.com/",
   "countryHQ": "SE",
   "countries": [
     "SE"
@@ -19,10 +19,11 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.ziklo.com/",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "insurely",
     "tink"
   ],
   "ownership": [],

@@ -43,7 +43,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "insurely"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [

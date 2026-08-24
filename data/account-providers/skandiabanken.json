@@ -10,8 +10,8 @@
   "legalName": "SKANDIABANKEN",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.skandiabanken.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.skandia.se.ico",
+  "websiteUrl": "https://www.skandia.se/",
   "countryHQ": "SE",
   "countries": [
     "SE"
@@ -24,6 +24,7 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
+    "insurely",
     "lunchflow",
     "synci",
     "zenith"

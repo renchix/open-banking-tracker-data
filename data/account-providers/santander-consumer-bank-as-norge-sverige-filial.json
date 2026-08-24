@@ -6,12 +6,12 @@
   "bankType": [
     "retail"
   ],
-  "name": "SANTANDER CONSUMER BANK AS NORGE, SVERIGE FILIAL",
-  "legalName": "SANTANDER CONSUMER BANK AS NORGE, SVERIGE FILIAL",
+  "name": "Santander Consumer Bank AS Norge, Sverige Filial",
+  "legalName": "Santander Consumer Bank AS Norge, Sverige Filial",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.santanderconsumerbankasnorgesverigefilial.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.santanderconsumer.se.ico",
+  "websiteUrl": "https://www.santanderconsumer.se/",
   "countryHQ": "SE",
   "countries": [
     "SE"
@@ -22,7 +22,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "insurely"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,

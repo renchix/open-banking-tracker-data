@@ -6,12 +6,12 @@
   "bankType": [
     "retail"
   ],
-  "name": "NORDNET BANK AB",
-  "legalName": "NORDNET BANK AB",
+  "name": "Nordnet Bank AB",
+  "legalName": "Nordnet Bank AB",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.nordnetbankab.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.nordnet.se.ico",
+  "websiteUrl": "https://www.nordnet.se/",
   "countryHQ": "SE",
   "countries": [
     "SE"
@@ -22,7 +22,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "insurely"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,

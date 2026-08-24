@@ -10,7 +10,7 @@
   "legalName": "SBAB",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.sbab.com.ico",
+  "icon": "https://icons.duckduckgo.com/ip3/www.sbab.se.ico",
   "websiteUrl": "https://www.sbab.se/",
   "retailWebLoginUrl": "https://secure.sbab.se/logga-in?as=private",
   "commercialWebLoginUrl": "https://secure.sbab.se/logga-in?as=corporate",
@@ -25,6 +25,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "insurely",
     "tink"
   ],
   "ownership": [],

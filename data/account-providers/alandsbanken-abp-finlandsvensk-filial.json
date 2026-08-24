@@ -6,12 +6,12 @@
   "bankType": [
     "retail"
   ],
-  "name": "ALANDSBANKEN ABP (FINLAND),SVENSK FILIAL",
-  "legalName": "ALANDSBANKEN ABP (FINLAND),SVENSK FILIAL",
+  "name": "Ålandsbanken Abp (Finland), Svensk Filial",
+  "legalName": "Ålandsbanken Abp (Finland), Svensk Filial",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.alandsbankenabpfinlandsvenskfilial.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.alandsbanken.se.ico",
+  "websiteUrl": "https://www.alandsbanken.se/",
   "countryHQ": "SE",
   "countries": [
     "SE"
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "insurely",
     "zenith"
   ],
   "ownership": [],
