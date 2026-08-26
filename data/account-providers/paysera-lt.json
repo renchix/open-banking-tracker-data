@@ -22,7 +22,7 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": ["catego"],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
