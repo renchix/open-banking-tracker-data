@@ -23,7 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "plaid"
+    "plaid", "catego"
   ],
   "ownership": [],
   "stateOwned": false,
